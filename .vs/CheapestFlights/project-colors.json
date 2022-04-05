@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7d5af2f-0997-4b67-a62d-ae1c07b1e6db": {
+      "ProjectGuid": "c7d5af2f-0997-4b67-a62d-ae1c07b1e6db",
+      "DisplayName": "Flights",
+      "ColorIndex": 0
+    },
+    "3f4f3451-3e74-4c1b-8203-8e94249f253f": {
+      "ProjectGuid": "3f4f3451-3e74-4c1b-8203-8e94249f253f",
+      "DisplayName": "Flights.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

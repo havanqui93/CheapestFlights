@@ -1,0 +1,14 @@
+D:\Project\New folder\CheapestFlights\Flights\bin\Debug\net6.0\Flights.exe
+D:\Project\New folder\CheapestFlights\Flights\bin\Debug\net6.0\Flights.deps.json
+D:\Project\New folder\CheapestFlights\Flights\bin\Debug\net6.0\Flights.runtimeconfig.json
+D:\Project\New folder\CheapestFlights\Flights\bin\Debug\net6.0\Flights.dll
+D:\Project\New folder\CheapestFlights\Flights\bin\Debug\net6.0\ref\Flights.dll
+D:\Project\New folder\CheapestFlights\Flights\bin\Debug\net6.0\Flights.pdb
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.AssemblyInfoInputs.cache
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.AssemblyInfo.cs
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.csproj.CoreCompileInputs.cache
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.dll
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\ref\Flights.dll
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.pdb
+D:\Project\New folder\CheapestFlights\Flights\obj\Debug\net6.0\Flights.genruntimeconfig.cache
